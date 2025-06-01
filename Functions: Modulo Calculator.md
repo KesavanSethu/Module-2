@@ -12,8 +12,18 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
-
+```
+def result(a, b):
+    c=a%b
+    print("Modulo result:", c)
+a = int(input())
+b = int(input())
+result(a, b)
+```
 ## Output
 
+![image](https://github.com/user-attachments/assets/bc4baf53-5d3e-4ffb-a12f-240e3cabd030)
+
 ## Result
+
+Therefore,the given python program is successfully verified
